@@ -71,6 +71,7 @@ php artisan migrate
 📬 Contact
 
 If you discover a security vulnerability or have suggestions, feel free to open an issue or email manojxtha1000@gmail.com.
+
 ⭐️ Show Your Support
 
 Give a ⭐ on GitHub if this project helped you!
