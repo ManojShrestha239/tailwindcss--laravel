@@ -50,7 +50,7 @@ A clean and minimal **Admin Dashboard** template built with **Laravel** and styl
 ⚙️ Installation
 
 # Clone the repository
-git clone https://github.com/your-username/laravel-admin-dashboard.git
+git clone https://github.com/your-username/laravel-admin-dashboard.git](https://github.com/ManojShrestha239/tailwindcss--laravel.git
 
 cd laravel-admin-dashboard
 
