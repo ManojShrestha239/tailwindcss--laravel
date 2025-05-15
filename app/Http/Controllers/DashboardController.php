@@ -10,4 +10,9 @@ class DashboardController extends Controller
     {
         return view('dashboard.main');
     }
+
+    public function calendar()
+    {
+        return view('dashboard.profile');
+    }
 }
