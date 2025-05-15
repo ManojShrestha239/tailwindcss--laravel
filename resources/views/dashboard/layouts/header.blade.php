@@ -386,7 +386,7 @@
                         <img src="./images/user/owner.jpg" alt="User" />
                     </span>
 
-                    <span class="text-theme-sm mr-1 block font-medium"> Musharof </span>
+                    <span class="text-theme-sm mr-1 block font-medium"> {{ Auth::user()->name }} </span>
 
                     <svg :class="dropdownOpen && 'rotate-180'" class="stroke-gray-500 dark:stroke-gray-400"
                         width="18" height="20" viewBox="0 0 18 20" fill="none"
@@ -401,10 +401,10 @@
                     class="shadow-theme-lg dark:bg-gray-dark absolute right-0 mt-[17px] flex w-[260px] flex-col rounded-2xl border border-gray-200 bg-white p-3 dark:border-gray-800">
                     <div>
                         <span class="text-theme-sm block font-medium text-gray-700 dark:text-gray-400">
-                            Musharof Chowdhury
+                            {{ Auth::user()->name }}
                         </span>
                         <span class="text-theme-xs mt-0.5 block text-gray-500 dark:text-gray-400">
-                            randomuser@pimjo.com
+                            {{ Auth::user()->email }}
                         </span>
                     </div>
 
