@@ -34,5 +34,9 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
-
+    'subscription_api' => [
+        'key' => env('SUBSCRIPTION_API_KEY'),
+        'url' => env('SUBSCRIPTION_API_URL'),
+        'redirect' => env('SUBSCRIPTION_API_REDIRECT', "https://bihanitech.com/"),
+    ],
 ];
