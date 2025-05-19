@@ -35,8 +35,9 @@ return [
         ],
     ],
     'subscription_api' => [
-        'key' => env('SUBSCRIPTION_API_KEY'),
+        'secret' => env('SUBSCRIPTION_API_KEY'),
+        'domain' => env('APP_URL'),
         'url' => env('SUBSCRIPTION_API_URL'),
-        'redirect' => env('SUBSCRIPTION_API_REDIRECT', "https://bihanitech.com/"),
+        'redirect_url' => env('SUBSCRIPTION_API_REDIRECT_URL'),
     ],
 ];
