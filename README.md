@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/laravel-admin-dashboard/actions"><img src="https://github.com/your-username/laravel-admin-dashboard/workflows/CI/badge.svg" alt="CI"></a>
-  <a href="https://packagist.org/packages/your-vendor/laravel-admin-dashboard"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Downloads"></a>
-  <a href="https://github.com/your-username/laravel-admin-dashboard/releases"><img src="https://img.shields.io/github/v/release/your-username/laravel-admin-dashboard" alt="Release"></a>
-  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/your-username/laravel-admin-dashboard" alt="License"></a>
+  <a href="https://github.com/ManojShrestha239/tailwindcss--laravel.git/actions"><img src="https://github.com/ManojShrestha239/tailwindcss--laravel.git/workflows/CI/badge.svg" alt="CI"></a>
+  <a href="https://packagist.org/packages/your-vendor/tailwindcss--laravel.git"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Downloads"></a>
+  <a href="https://github.com/ManojShrestha239/tailwindcss--laravel.git/releases"><img src="https://img.shields.io/github/v/release/ManojShrestha239/tailwindcss--laravel.git" alt="Release"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/ManojShrestha239/tailwindcss--laravel.git" alt="License"></a>
 </p>
 
 ---
@@ -53,8 +53,8 @@ A clean and minimal **Admin Dashboard** template built with **Laravel** and styl
 # Clone the repository
 
 ```bash
-git clone https://github.com/your-username/laravel-admin-dashboard.git](https://github.com/ManojShrestha239/tailwindcss--laravel.git
-cd laravel-admin-dashboard
+git clone https://github.com/ManojShrestha239/tailwindcss--laravel.git
+cd tailwindcss--laravel
 ```
 
 # Install dependencies
