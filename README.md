@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ManojShrestha239/tailwindcss--laravel.git/actions"><img src="https://github.com/ManojShrestha239/tailwindcss--laravel.git/workflows/CI/badge.svg" alt="CI"></a>
-  <a href="https://packagist.org/packages/your-vendor/tailwindcss--laravel.git"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Downloads"></a>
-  <a href="https://github.com/ManojShrestha239/tailwindcss--laravel.git/releases"><img src="https://img.shields.io/github/v/release/ManojShrestha239/tailwindcss--laravel.git" alt="Release"></a>
-  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/ManojShrestha239/tailwindcss--laravel.git" alt="License"></a>
-</p>
-
 ---
 
 # Laravel Admin Dashboard with Tailwind CSS v4
