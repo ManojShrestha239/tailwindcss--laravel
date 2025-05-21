@@ -13,26 +13,26 @@
 
 ---
 
-## 🚀 Laravel Admin Dashboard with Tailwind CSS v4
+# Laravel Admin Dashboard with Tailwind CSS v4
 
 A clean and minimal **Admin Dashboard** template built with **Laravel** and styled using **Tailwind CSS v4**. This starter template is perfect for quickly scaffolding internal tools, CMS panels, or B2B applications.
 
 ---
 
-### 🧩 Features
+## 🚀 Features
 
-- ✅ Laravel 10+
-- 🎨 Tailwind CSS v4 integration
-- 🧱 Component-based UI
-- 🔐 Authentication with Laravel Breeze / Jetstream (optional)
-- 🧭 Responsive Dashboard Layout
-- 📊 Placeholder for charts and analytics
-- 🌗 Light/Dark mode toggle (optional)
-- 🛠 Modular structure for scalability
+-   ✅ **Laravel 10+**: Built on the latest Laravel framework.
+-   🎨 **Tailwind CSS v4**: Fully integrated for modern and responsive UI design.
+-   🧱 **Component-based UI**: Modular and reusable components for scalability.
+-   🔐 **Authentication**: Supports Laravel Breeze or Jetstream (optional).
+-   🧭 **Responsive Layout**: Optimized for all screen sizes.
+-   📊 **Analytics Ready**: Placeholder for charts and analytics.
+-   🌗 **Light/Dark Mode**: Optional theme toggle for better user experience.
+-   🛠 **Modular Structure**: Clean and scalable project structure.
 
 ---
 
-### 📂 Directory Structure
+## 📂 Directory Structure
 
 ```bash
 ├── app/
@@ -45,27 +45,40 @@ A clean and minimal **Admin Dashboard** template built with **Laravel** and styl
 │       └── app.css (Tailwind CSS)
 ├── routes/
 │   └── web.php
-└── vite.config.js
+└── [vite.config.js](http://_vscodecontentref_/0)
 ```
+
 ⚙️ Installation
 
 # Clone the repository
-git clone https://github.com/your-username/laravel-admin-dashboard.git](https://github.com/ManojShrestha239/tailwindcss--laravel.git
 
+```bash
+git clone https://github.com/your-username/laravel-admin-dashboard.git](https://github.com/ManojShrestha239/tailwindcss--laravel.git
 cd laravel-admin-dashboard
+```
 
 # Install dependencies
+
+```bash
 composer install
 npm install && npm run dev
+```
 
 # Copy .env and generate app key
+
+```dotenv
 cp .env.example .env
 php artisan key:generate
+```
 
 # (Optional) Set up database
+
+```bash
 php artisan migrate
+```
 
 📸 Screenshots
+
 <p align="center"> <img src="public/screenshots/dashboard.png" alt="Admin Dashboard" width="800"> </p>
 
 📬 Contact
